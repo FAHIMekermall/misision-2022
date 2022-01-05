@@ -68,3 +68,25 @@ body{
 .goals{
     background-color: rgba(129, 92, 92, 0.432);
 }
+.section3{
+    width: 40%;
+}
+.section3 img{
+    width: 70%;
+    margin-left: 30%;
+}
+.section4{
+    width: 60%;
+}
+.needmargin1{
+    margin-top: 5%;
+}
+.limit1{
+    color: rgba(31, 29, 29, 0.89);
+    line-height: 50%;
+    font-family:monospace;
+    font-weight: 900;
+}
+.needpadidng2{
+    padding: 60px 150px 0 90px ;
+}
