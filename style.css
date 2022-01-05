@@ -80,6 +80,9 @@ body{
 }
 .needmargin1{
     margin-top: 5%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .limit1{
     color: rgba(31, 29, 29, 0.89);
@@ -89,4 +92,22 @@ body{
 }
 .needpadidng2{
     padding: 60px 150px 0 90px ;
+}
+.needmargin11{
+    margin: 5% 10% 0 10%;
+}
+footer{
+    color: white;
+    background-color: black;
+}
+footer {
+    text-align: center;
+}
+footer h2{
+    font-family: monospace;
+}
+.linkbutton2{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
 }
