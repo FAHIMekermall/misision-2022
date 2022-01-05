@@ -2,6 +2,7 @@ body{
     color: rgba(24, 23, 23, 0.651);
     font-size: 32px;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 .flex1{
     display: flex;
@@ -33,4 +34,35 @@ body{
     border-radius: 15px;
     padding: 15px 40px;
     background-image: linear-gradient(rgb(241, 77, 104),rgb(240, 109, 233));
+}
+.oneof3 img{
+    width: 40%;
+}
+.oneof3 h3{
+    color: black;
+    font-weight: 800;
+}
+.paddingneed1{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.mission1{
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+.oneof3{
+    border-radius: 20px;
+    margin: 15px;
+    padding: 20px;
+    width: 33%;
+}
+.mission{
+    background-color: rgba(171, 186, 238, 0.418);
+}
+.vission{
+    background-color: rgba(180, 240, 193, 0.432);
+}
+.goals{
+    background-color: rgba(129, 92, 92, 0.432);
 }
