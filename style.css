@@ -119,8 +119,10 @@ footer h2{
     font-family: sans-serif;
     line-height: 0;
     margin: 8% 30%;
-    border-left: 2px dotted violet;
-    border-top: 2px dotted violet;
+    border-image: linear-gradient(red,green);
+    border-image-slice: 1;
+    border-left: 4px solid;
+    border-top: 4px solid;
     display: flex;
     justify-content: center;
     height: 300px;
