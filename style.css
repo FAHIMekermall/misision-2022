@@ -115,6 +115,7 @@ footer h2{
 
 
 .form{
+    background-color: rgba(224, 211, 211, 0.808);
     padding: 35px 50px;
     font-family: sans-serif;
     line-height: 0;
